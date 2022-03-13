@@ -7,6 +7,8 @@ use v5.24;
 use strict;
 use warnings;
 
+# VERSION
+
 use Exporter 'import';
 
 use feature 'signatures';

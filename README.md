@@ -1,6 +1,6 @@
 [![Kwalitee status](https://cpants.cpanauthors.org/dist/Data-Password-Top10000.png)](https://cpants.cpanauthors.org/dist/Data-Password-Top10000)
 [![GitHub issues](https://img.shields.io/github/issues/Data-Password-Top10000/issues.svg)](https://github.com/Data-Password-Top10000/issues/issues)
-[![CPAN Cover Status](https://cpancoverbadge.perl-services.de/Data-Password-Top10000-1.0.0)](https://cpancoverbadge.perl-services.de/Data-Password-Top10000-1.0.0)
+[![CPAN Cover Status](https://cpancoverbadge.perl-services.de/Data-Password-Top10000-1.0.1)](https://cpancoverbadge.perl-services.de/Data-Password-Top10000-1.0.1)
 
 # NAME
 
@@ -8,7 +8,7 @@ Data::Password::Top10000 - Check if a given string is in the Top 10000 list of c
 
 # VERSION
 
-version 1.0.0
+version 1.0.1
 
 # SYNOPSIS
 

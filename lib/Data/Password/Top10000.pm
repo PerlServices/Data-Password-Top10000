@@ -15,8 +15,8 @@ no warnings 'experimental::signatures';
 our @EXPORT_OK = qw(is_in_top10000);
 
 sub is_in_top10000 ( $password ) {
-    state %list = map { $_ => 1 } _list();
-    return !!$list{$password}
+    state $list = +{ map { $_ => 1 } _list() };
+    return !!$list->{$password}
 }
 
 sub _list () {
